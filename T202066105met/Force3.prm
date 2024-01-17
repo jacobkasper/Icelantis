@@ -93,27 +93,27 @@ typeEffortts 1
 
 Effortts0.name box0Effort
 Effortts0.location 934735.4427970713 -40812.29822564102  0
-Effortts0.data inputs/effort_box/boundary.ts
+Effortts0.data inputs/effort_box/box_0.ts
 Effortts0.rewind 0
 
 Effortts1.name box1Effort
 Effortts1.location 963094.6282009905 226286.05860357767  1
-Effortts1.data inputs/effort_box/boundary.ts
+Effortts1.data inputs/effort_box/box_1.ts
 Effortts1.rewind 0
 
 Effortts2.name box2Effort
 Effortts2.location 788988.2123544264 10017.223768179458 2
-Effortts2.data inputs/effort_box/boundary.ts
+Effortts2.data inputs/effort_box/box_2.ts
 Effortts2.rewind 0
 
 Effortts3.name box3Effort
 Effortts3.location 777815.4155861306 135169.8551700791  3
-Effortts3.data inputs/effort_box/boundary.ts
+Effortts3.data inputs/effort_box/box_3.ts
 Effortts3.rewind 0
 
 Effortts4.name box4Effort
 Effortts4.location 843754.3654812542 155299.03631931677 4
-Effortts4.data inputs/effort_box/boundary.ts
+Effortts4.data inputs/effort_box/box_4.ts
 Effortts4.rewind 0
 
 Effortts5.name box5Effort
@@ -133,27 +133,27 @@ Effortts7.rewind 0
 
 Effortts8.name box8Effort
 Effortts8.location 1006745.2704958187 317359.96262928203 8
-Effortts8.data inputs/effort_box/boundary.ts
+Effortts8.data inputs/effort_box/box_8.ts
 Effortts8.rewind 0
 
 Effortts9.name box9Effort
 Effortts9.location 947317.9640888427 519750.6056569836 9
-Effortts9.data inputs/effort_box/boundary.ts
+Effortts9.data inputs/effort_box/box_9.ts
 Effortts9.rewind 0
 
 Effortts10.name box10Effort
 Effortts10.location 879217.9479240617 693065.6419329597 10
-Effortts10.data inputs/effort_box/boundary.ts
+Effortts10.data inputs/effort_box/box_10.ts
 Effortts10.rewind 0
 
 Effortts11.name box11Effort
 Effortts11.location 860517.2226515072 916392.9662782685  11
-Effortts11.data inputs/effort_box/boundary.ts
+Effortts11.data inputs/effort_box/box_11.ts
 Effortts11.rewind 0
 
 Effortts12.name box12Effort
 Effortts12.location 469495.2250095962 918739.1644692132  12
-Effortts12.data inputs/effort_box/boundary.ts
+Effortts12.data inputs/effort_box/box_12.ts
 Effortts12.rewind 0
 
 Effortts13.name box13Effort
@@ -188,7 +188,7 @@ Effortts18.rewind 0
 
 Effortts19.name box19Effort
 Effortts19.location 502399.03076634265 476309.30335176055 19
-Effortts19.data inputs/effort_box/boundary.ts
+Effortts19.data inputs/effort_box/box_19.ts
 Effortts19.rewind 0
 
 Effortts20.name box20Effort
@@ -222,27 +222,27 @@ Effortts25.rewind 0
 
 Effortts26.name box26Effort
 Effortts26.location 455694.89071555197 208906.28013538767 26
-Effortts26.data inputs/effort_box/boundary.ts
+Effortts26.data inputs/effort_box/box_26.ts
 Effortts26.rewind 0
 
 Effortts27.name box27Effort
 Effortts27.location 63434.426758998976 81762.92433844475 27
-Effortts27.data inputs/effort_box/boundary.ts
+Effortts27.data inputs/effort_box/box_27.ts
 Effortts27.rewind 0
 
 Effortts28.name box28Effort
 Effortts28.location -45676.21630213804 79413.14936680101 28
-Effortts28.data inputs/effort_box/boundary.ts
+Effortts28.data inputs/effort_box/box_28.ts
 Effortts28.rewind 0
 
 Effortts29.name box29Effort
 Effortts29.location 66910.72048698406 137612.00936582638 29
-Effortts29.data inputs/effort_box/boundary.ts
+Effortts29.data inputs/effort_box/box_29.ts
 Effortts29.rewind 0
 
 Effortts30.name box30Effort
 Effortts30.location 178582.7846627574 391445.49778555066 30
-Effortts30.data inputs/effort_box/boundary.ts
+Effortts30.data inputs/effort_box/box_30.ts
 Effortts30.rewind 0
 
 Effortts31.name box31Effort
@@ -292,67 +292,67 @@ Effortts39.rewind 0
 
 Effortts40.name box40Effort
 Effortts40.location -43384.60210320959 593971.4093008456 40
-Effortts40.data inputs/effort_box/boundary.ts
+Effortts40.data inputs/effort_box/box_40.ts
 Effortts40.rewind 0
 
 Effortts41.name box41Effort
 Effortts41.location -94907.93479315928 575053.6304569072 41
-Effortts41.data inputs/effort_box/boundary.ts
+Effortts41.data inputs/effort_box/box_41.ts
 Effortts41.rewind 0
 
 Effortts42.name box42Effort
 Effortts42.location -541448.3168240392 417406.45221474255 42
-Effortts42.data inputs/effort_box/boundary.ts
+Effortts42.data inputs/effort_box/box_42.ts
 Effortts42.rewind 0
 
 Effortts43.name box43Effort
 Effortts43.location -155933.5920382979 694574.986795096 43
-Effortts43.data inputs/effort_box/boundary.ts
+Effortts43.data inputs/effort_box/box_43.ts
 Effortts43.rewind 0
 
 Effortts44.name box44Effort
 Effortts44.location 442512.461913948 1073706.933664683  44
-Effortts44.data inputs/effort_box/boundary.ts
+Effortts44.data inputs/effort_box/box_44.ts
 Effortts44.rewind 0
 
 Effortts45.name box45Effort
 Effortts45.location 595748.6360032809 1076131.103700512  45
-Effortts45.data inputs/effort_box/boundary.ts
+Effortts45.data inputs/effort_box/box_45.ts
 Effortts45.rewind 0
 
 Effortts46.name box46Effort
 Effortts46.location 766587.3042487655 1088192.9855769365 46
-Effortts46.data inputs/effort_box/boundary.ts
+Effortts46.data inputs/effort_box/box_46.ts
 Effortts46.rewind 0
 
 Effortts47.name box47Effort
 Effortts47.location 809812.5630930199 1256191.0615368253  47
-Effortts47.data inputs/effort_box/boundary.ts
+Effortts47.data inputs/effort_box/box_47.ts
 Effortts47.rewind 0
 
 Effortts48.name box48Effort
 Effortts48.location 946823.4015203306 1465293.0394179993 48
-Effortts48.data inputs/effort_box/boundary.ts
+Effortts48.data inputs/effort_box/box_48.ts
 Effortts48.rewind 0
 
 Effortts49.name box49Effort
 Effortts49.location 1337791.1925429427 815838.4371374671 49
-Effortts49.data inputs/effort_box/boundary.ts
+Effortts49.data inputs/effort_box/box_49.ts
 Effortts49.rewind 0
 
 Effortts50.name box50Effort
 Effortts50.location 1321068.9545605765 30262.14828854903 50
-Effortts50.data inputs/effort_box/boundary.ts
+Effortts50.data inputs/effort_box/box_50.ts
 Effortts50.rewind 0
 
 Effortts51.name box51Effort
 Effortts51.location 1163749.6167887528 673973.2880860871 51
-Effortts51.data inputs/effort_box/boundary.ts
+Effortts51.data inputs/effort_box/box_51.ts
 Effortts51.rewind 0
 
 Effortts52.name box52Effort
 Effortts52.location 1122858.7894687417 224823.4679450839 52
-Effortts52.data inputs/effort_box/boundary.ts
+Effortts52.data inputs/effort_box/box_52.ts
 Effortts52.rewind 0
 
 
