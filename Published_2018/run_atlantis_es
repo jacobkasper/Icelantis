@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Run Atlantis
+
+atlantisMerged -i InitialCond89.nc 0 -o Out.nc -r Run.prm -f Force.prm -p Physics.prm -b B371.prm -s GroupsIceland.csv -q FisheriesIceland.csv -h F140.prm -d M89B370F140
+
+    
+	
+ 

@@ -1,0 +1,12 @@
+Code,Index,Name,IsRec,NumSubFleets
+long,1,longline,0,0
+gill,2,gillnet,0,0
+hand,3,handline,0,0
+purse,4,purse seine,0,0
+danish,5,danish seine,0,0
+midtrawl,6,midwater trawl,0,0
+bottrawl,7,bottom trawl,0,0
+shrimp,8,shrimp,0,0
+lob,9,lobster,0,0
+dredge,10,dredge,0,0
+whale,11,whaling,0,0

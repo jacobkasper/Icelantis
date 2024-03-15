@@ -1,0 +1,110 @@
+# 25/03/2014, Christopher David Desjardins 
+# - Changed hydrodynamic files to 1 and commented out the rest
+# - Added dummy temperature and salinity files
+# - commented out timeseries for catch data
+# - commmented out precipitation, evaporation, and solar_radiation data flags
+#
+# PC Version (created by Beth Fulton and Adam Davidson)
+#
+# Hydrodynamic files 
+# A is for 1948 - 1962
+# B - F are each 10 years, i.e. 1963 - 1972, and run through 2012
+# input directories  
+
+temp_rewind 1
+salt_rewind 1
+
+# 1 January
+nhdfiles 6
+hd0.name inputs/forcisets/hydro/iceland_exchangeA.nc
+hd1.name inputs/forcisets/hydro/iceland_exchangeB.nc
+hd2.name inputs/forcisets/hydro/iceland_exchangeC.nc
+hd3.name inputs/forcisets/hydro/iceland_exchangeD.nc
+hd4.name inputs/forcisets/hydro/iceland_exchangeE.nc
+hd5.name inputs/forcisets/hydro/iceland_exchangeF.nc
+
+# Bottom stress
+# BottomStress inputs/stress/stress.nc
+# BottomStress inputs/stress/nxstress.nc
+
+#############################################
+# Point source\sink lists
+npointss 0
+
+##########################################
+# This will set the frequency in which data is written to the inputs.ts and export.ts output files.
+inputs_tout 43200 seconds
+
+###########################################
+
+# Rain and evaporation
+#Precipitation inputs/meteor/iceland_rain.nc
+#Evaporation   inputs/meteor/84-95.nc
+
+# Solar time series data file
+#Solar_radiation inputs/forcisets/solar9195.ts
+#Solar_radiation_rewind 1
+
+# Temperature time series data file
+use_tempfiles 1
+
+# Starting on 1 June
+# The number of temperature input files 
+# ntempfiles 1
+# Temperature0.name inputs/forcisets/iceland_temp.nc
+
+# Dummy
+# Temperature0.name inputs/fake/iceland_atlantis_temp.nc
+
+
+# Starting on 1 January
+# The number of temperature input files 
+ntempfiles 1
+Temperature0.name inputs/forcisets/iceland_temperature.nc
+
+# Salinity time series data file
+use_saltfiles 1
+
+# Starting on 1 January
+nsaltfiles 1 
+Salinity0.name inputs/forcisets/iceland_salinity.nc
+
+# Recruitment_time_series
+
+Recruitment_enviro_forcing inputs/recruits/spwnAll_08.ts
+
+#############################################
+# Historical catch lists - nCatchts is the number of time series to be loaded and
+# typeCatchts is whether or not the data is to be interpolated (0) by the model
+# or just use previous record (1)
+nCatchts 0
+typeCatchts 0
+
+
+
+#############################################
+# Historical discard lists
+nDiscardts 0
+typeDiscardts 0
+
+#############################################
+# Residual lists - on market fish prices
+nResidualsts 0
+typeResidualsts 0
+
+#############################################
+# Economic statistics - GDP and fuel costs
+nEconts 0
+typeEconts 0
+
+##############################################
+# MPA (spatial management) files for cases where change through time
+# Same format as Catchts above
+nMPAts 0
+typeMPAts 0
+
+# Use hydrotime from hydro.nc
+ts_on_hydro_time 1
+
+
+use_phFiles 0
